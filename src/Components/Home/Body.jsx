@@ -6,7 +6,7 @@ const Body = () => {
 
                 <h2>Diplomado en fullstack</h2>
                 <h3>Mod 7: Curso de React</h3>
-
+                <h3>Nombre: Diego Gorostiga Marin</h3>
                 <p>
                     Edit <code>src/App.jsx</code> and save to test HMR
                 </p>

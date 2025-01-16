@@ -16,7 +16,7 @@ const SearchBar = ({ searchTerm, setSearchTerm, showInStock, setShowInStock }) =
           checked={showInStock}
           onChange={(e) => setShowInStock(e.target.checked)}
         />
-        Mostrar solo productos en stock
+        Mostrar productos en stock
       </label>
     </div>
   );

@@ -16,9 +16,10 @@ function App() {
   // Datos de ejemplo
   const products = [
     { category: 'Frutas', price: '$1', stocked: true, name: 'Manzana' },
-    { category: 'Frutas', price: '$2', stocked: false, name: 'Cereza' },
+    { category: 'Frutas', price: '$2', stocked: false, name: 'Mandarina' },
     { category: 'Verduras', price: '$3', stocked: true, name: 'Espinaca' },
     { category: 'Verduras', price: '$4', stocked: false, name: 'Zanahoria' },
+    { category: 'Verduras', price: '$5', stocked: false, name: 'Locoto' },
   ];
 
   return (

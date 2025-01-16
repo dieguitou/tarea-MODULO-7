@@ -2,7 +2,7 @@ import React from 'react';
 import './ProductRow.css';
 
 const ProductRow = ({ product }) => {
-  const nameStyle = product.stocked ? {} : { color: 'red' };
+  const nameStyle = product.stocked ? {} : { color: 'orange' };
 
   return (
     <tr>
